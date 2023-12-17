@@ -12,6 +12,8 @@ MySQL workbench should also be installed to the system. How to install:- https:/
 GitHub account is good to have but not necessary.
 You should have AWS account. How to create:- https://youtu.be/k7522oZQi9Y
 Understanding of spark,sql and python is required.
+
+
 Project structure:-
 my_project/
 ├── docs/
